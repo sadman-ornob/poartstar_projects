@@ -187,9 +187,10 @@ h1, h2, h3, h4, h5, h6, p{
 }
 
 .leftmargin{
-    margin-left: 115px;
+    margin-top: 50px;
+    align-items: center;
+    padding-left: 12%;
 }
-
 
 
 
@@ -725,9 +726,10 @@ h1, h2, h3, h4, h5, h6, p{
     .servicecard {
         width: 100% !important;
         height: auto !important;
-        margin-left: 0 !important;
+        margin: 0 auto!important;
         margin-bottom: 20px;
-        padding: 40px 24px !important;
+        padding:40px 24px !important;
+        
     }
 
     /* Graphic Designer Part */
